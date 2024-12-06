@@ -26,7 +26,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: madushanrajendran@gmail.com/DockerNodejs:latest
+          tags: madushanrajendran@gmail.com/DockerNodejs
 
   deploy:
     runs-on: ubuntu-latest
